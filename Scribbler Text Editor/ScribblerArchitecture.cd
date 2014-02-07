@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Scribbler.MenuManager">
+    <Position X="4" Y="0.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAhEgQAAQAABAACAAIGAAAAAAQAAAQA=</HashCode>
+      <FileName>MenuManager.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="OperationManager" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="Scribbler.OperationManager">
+    <Position X="7.5" Y="0.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>QAAAAAAAAEAAAAAEgAAAIAAAAAAAAIAAACAAgAAAAAA=</HashCode>
+      <FileName>OperationManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Scribbler.TextManager">
+    <Position X="7.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAACAAAAAAAQEgAQAAAAAAAAAAIAAAAAAAAAAAAA=</HashCode>
+      <FileName>TextManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Scribbler.MainForm">
+    <Position X="0.5" Y="0.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>JACUAAEkACAAAAAAAACAgIECAAAIAAAAgACAAAEAAAA=</HashCode>
+      <FileName>MainForm.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="menuManager" />
+    </ShowAsAssociation>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

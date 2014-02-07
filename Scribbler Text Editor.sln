@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Scribbler Text Editor", "Scribbler Text Editor\Scribbler Text Editor.csproj", "{B120711F-7BE9-42C0-AA44-41C5CE16696E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ScribblerTypes", "ScribblerTypes\ScribblerTypes.csproj", "{FF1F94CB-99C8-4B8D-91C8-0325A6D3C44D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Statistics", "Statistics\Statistics.csproj", "{FC9853EF-F977-454F-BA31-97EA0AB5E928}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B120711F-7BE9-42C0-AA44-41C5CE16696E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B120711F-7BE9-42C0-AA44-41C5CE16696E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B120711F-7BE9-42C0-AA44-41C5CE16696E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B120711F-7BE9-42C0-AA44-41C5CE16696E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FF1F94CB-99C8-4B8D-91C8-0325A6D3C44D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF1F94CB-99C8-4B8D-91C8-0325A6D3C44D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF1F94CB-99C8-4B8D-91C8-0325A6D3C44D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF1F94CB-99C8-4B8D-91C8-0325A6D3C44D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FC9853EF-F977-454F-BA31-97EA0AB5E928}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC9853EF-F977-454F-BA31-97EA0AB5E928}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC9853EF-F977-454F-BA31-97EA0AB5E928}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC9853EF-F977-454F-BA31-97EA0AB5E928}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
